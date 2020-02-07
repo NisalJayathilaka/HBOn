@@ -1,0 +1,6 @@
+framework module Pods_hbo {
+  umbrella header "Pods-hbo-umbrella.h"
+
+  export *
+  module * { export * }
+}
